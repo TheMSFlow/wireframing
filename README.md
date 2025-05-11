@@ -52,3 +52,39 @@ Functionality outlines key interactive elements and features of the website or a
 
 **Example:**
 A wireframe might show a "Search" bar at the top of the page, a "Sign Up" button in the header, or a form for users to submit their contact information. These functional elements ensure that the user can engage with the product and complete desired tasks.
+
+
+
+
+
+# Types of Wireframes
+
+Wireframes come in two primary types: low-fidelity and high-fidelity. Each type serves a different purpose in the design process and offers varying levels of detail. Here's a look at the differences between them:
+
+## 1. Low-Fidelity Wireframes
+Low-fidelity wireframes are basic sketches or simplified digital representations that focus primarily on the overall layout and structure. These wireframes are quick to create and usually lack detailed design elements like colors, fonts, or images.
+
+### When to Use:
+- **Early in the Design Process:** Low-fidelity wireframes are typically used in the early stages of the design process when ideas are still being formed. They allow designers to explore concepts and iterate quickly without getting bogged down by details.
+- **Collaboration and Feedback:** Since they are simple, low-fidelity wireframes are great for collaborating with team members and stakeholders. They help in gathering initial feedback and aligning on the general structure.
+
+### Example:
+A rough sketch on paper or a basic digital wireframe in Figma that shows the placement of elements like headers, buttons, and navigation, but without specific details.
+
+## 2. High-Fidelity Wireframes
+High-fidelity wireframes are more detailed and refined, often resembling the final design in terms of layout and visual elements. They include more specific content, such as font styles, images, colors, and interactive elements, providing a closer representation of the end product.
+
+### When to Use:
+- **Later in the Design Process:** High-fidelity wireframes are typically used when the structure is already finalized, and the focus is on fine-tuning the design elements and interactions.
+- **User Testing and Validation:** High-fidelity wireframes are useful for conducting user testing and validation as they offer a more realistic experience of the final product.
+- **Handoff to Development:** Once the design is confirmed, high-fidelity wireframes are often handed off to the development team for implementation, as they provide a detailed guide for building the UI.
+
+### Example:
+A detailed wireframe in Figma with precise measurements, font choices, colors, and fully designed buttons and navigation elements.
+
+
+
+# Type of wireframe in Figma link
+Answer - High fidelity Wireframes
+
+
