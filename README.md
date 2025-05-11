@@ -155,3 +155,37 @@ Making changes to a wireframe is far quicker and less resource-intensive than al
 If a client requests a change to the content layout, it can be quickly modified in the wireframe stage, rather than reworking a developed UI or prototype.
 
 In summary, wireframing enhances collaboration, supports better planning, and contributes to building more intuitive, user-friendly products with fewer development hurdles.
+
+
+
+
+
+# Real-World Scenario: Catching Usability Issues Early with Wireframing
+
+## Scenario: Redesigning a University Course Registration System
+
+A university planned to redesign its online course registration system. The old system was outdated and had received numerous complaints from students about its confusing layout and hard-to-use navigation. The design team created a set of low-fidelity wireframes to map out the new system before diving into high-fidelity design or development.
+
+## Usability Issues Identified
+
+During a review session with students and faculty using the low-fidelity wireframes, several issues were quickly uncovered:
+
+- **Confusing Navigation:** Users couldn’t easily find where to view available courses or access their schedule.
+- **Overwhelming Information:** Too much data was crammed onto the course selection screen, making it hard to scan and understand.
+- **Lack of Feedback:** There was no clear indication when a course was successfully added to the schedule.
+
+## Resolution
+
+Thanks to early feedback on the wireframes, the design team made the following adjustments:
+
+- **Simplified Navigation:** Introduced a sidebar menu with clearly labeled sections: “Course Search,” “My Schedule,” and “Registration Status.”
+- **Improved Layout:** Grouped course information into collapsible sections, allowing users to view only what they needed at a time.
+- **Added Confirmation Messages:** Included a visual checkmark and message to confirm successful course additions or flag issues like scheduling conflicts.
+
+## Impact on the Final Product
+
+By addressing these usability concerns early in the wireframing stage, the team avoided costly design and development changes later. The updated system received positive feedback from users for being more intuitive and less frustrating to use. Adoption rates increased, and helpdesk tickets related to course registration dropped significantly.
+
+## Conclusion: The Role of Wireframing in User-Friendly Design
+
+This scenario highlights how wireframing plays a critical role in identifying and resolving usability issues before they escalate. Wireframes allow teams to validate ideas, gather feedback, and iterate quickly—ensuring the final product is aligned with user needs and expectations. Ultimately, wireframing is an essential step in delivering a well-structured, user-friendly design.
